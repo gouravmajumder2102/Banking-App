@@ -9,13 +9,14 @@ Built with HTML CSS and JavaScript
 
   
 ## Deployement
-[(https://master--wonderful-speculoos-5499f3.netlify.app/)https://master--wonderful-speculoos-5499f3.netlify.app/](https://master--wonderful-speculoos-5499f3.netlify.app/)https://master--wonderful-speculoos-5499f3.netlify.app/
+https://master--wonderful-speculoos-5499f3.netlify.app/
 
 # Features
 
 # Landing Page
 
 ![Uploading Screenshot (187).png…]()
+
 
 ![Screenshot (188)](https://github.com/gouravmajumder2102/Banking-App/assets/87554983/cd0e4aa3-588b-4899-9959-fb0e4f7e4ca4)
 
@@ -25,7 +26,8 @@ Built with HTML CSS and JavaScript
 ![Screenshot (190)](https://github.com/gouravmajumder2102/Banking-App/assets/87554983/6ade44eb-8f47-4faa-9a92-47a0b8cd1cfc)
 
 # Contact Page
-![Uploading Screenshot (189).png…]()
+![Screenshot (189)](https://github.com/gouravmajumder2102/Banking-App/assets/87554983/339060ee-f2a3-4f38-aad5-4410529b0d8f)
+
 
 # Made with ❤️ by 
 Gourav Majumder
