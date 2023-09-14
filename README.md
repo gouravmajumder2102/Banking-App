@@ -15,7 +15,8 @@ https://master--wonderful-speculoos-5499f3.netlify.app/
 
 # Landing Page
 
-![Uploading Screenshot (187).png…]()
+![Screenshot (187)](https://github.com/gouravmajumder2102/Banking-App/assets/87554983/78c5bdc8-7d0e-4839-858a-46f73bf0bcf9)
+
 
 
 ![Screenshot (188)](https://github.com/gouravmajumder2102/Banking-App/assets/87554983/cd0e4aa3-588b-4899-9959-fb0e4f7e4ca4)
