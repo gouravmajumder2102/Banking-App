@@ -1,4 +1,4 @@
-![Screenshot (188)](https://github.com/gouravmajumder2102/Banking-App/assets/87554983/91e4a36a-0128-40cd-a0d5-52cbe1b6900f)# Banking-App
+# Banking-App
 
 Banking-App is a Frontend basic banking sytem implemented app.
 Built with HTML CSS and JavaScript
